@@ -1,2 +1,2 @@
-### Free Software Artist
+##### Free Software Artist
 GIMP Artist
